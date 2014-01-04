@@ -5,7 +5,7 @@
 //  in accordance with the terms of the license agreement accompanying it.
 //------------------------------------------------------------------------------
 
-package robotlegs.bender.extensions.genome2DViewMap
+package com.robotlegs.bender.extensions.genome2DViewMap
 {
 	import com.genome2d.core.Genome2D;
 	
@@ -14,8 +14,8 @@ package robotlegs.bender.extensions.genome2DViewMap
 	import robotlegs.bender.framework.api.IContext;
 	import robotlegs.bender.framework.api.IExtension;
 	import robotlegs.bender.framework.impl.UID;
-	import robotlegs.bender.extensions.genome2DViewMap.api.IG2DViewMap;
-	import robotlegs.bender.extensions.genome2DViewMap.impl.G2DViewMap;
+	import com.robotlegs.bender.extensions.genome2DViewMap.api.IG2DViewMap;
+	import com.robotlegs.bender.extensions.genome2DViewMap.impl.G2DViewMap;
 
 	public class G2DViewMapExtension implements IExtension
 	{

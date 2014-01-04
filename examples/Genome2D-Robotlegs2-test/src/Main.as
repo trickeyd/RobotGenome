@@ -5,6 +5,8 @@ package
 	import com.genome2d.core.GNodeFactory;
 	import com.genome2d.core.Genome2D;
 	import com.netiquette.robotGenome.view.MainView;
+	import com.robotlegs.bender.extensions.genome2DViewMap.G2DViewMapExtension;
+	import com.robotlegs.bender.extensions.signalCommandMap.SignalCommandMapExtension;
 	
 	import flash.display.Sprite;
 	import flash.display.StageAlign;
@@ -13,8 +15,6 @@ package
 	
 	import robotlegs.bender.bundles.mvcs.MVCSBundle;
 	import robotlegs.bender.extensions.contextView.ContextView;
-	import robotlegs.bender.extensions.genome2DViewMap.G2DViewMapExtension;
-	import robotlegs.bender.extensions.signalCommandMap.SignalCommandMapExtension;
 	import robotlegs.bender.framework.api.IContext;
 	import robotlegs.bender.framework.impl.Context;
 	

@@ -5,7 +5,7 @@
 //  in accordance with the terms of the license agreement accompanying it.
 //------------------------------------------------------------------------------
 
-package robotlegs.bender.extensions.signalCommandMap.impl
+package com.robotlegs.bender.extensions.signalCommandMap.impl
 {
 	import org.osflash.signals.ISignal;
 

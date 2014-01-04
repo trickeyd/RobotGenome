@@ -4,7 +4,7 @@
 //  NOTICE: You are permitted to use, modify, and distribute this file
 //  in accordance with the terms of the license agreement accompanying it.
 //------------------------------------------------------------------------------
-package robotlegs.bender.extensions.genome2DViewMap.impl 
+package com.robotlegs.bender.extensions.genome2DViewMap.impl 
 {
 	import com.genome2d.components.GComponent;
 	

@@ -5,7 +5,7 @@
 //  in accordance with the terms of the license agreement accompanying it.
 //------------------------------------------------------------------------------
 
-package robotlegs.bender.extensions.genome2DViewMap.api
+package com.robotlegs.bender.extensions.genome2DViewMap.api
 {
 	import com.genome2d.core.GNode;
 	

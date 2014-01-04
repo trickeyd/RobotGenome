@@ -2,10 +2,9 @@ package com.netiquette.robotGenome.view
 {
 	import com.genome2d.signals.GMouseSignal;
 	import com.netiquette.robotGenome.signals.Signal_ButtonClicked;
+	import com.robotlegs.bender.extensions.genome2DViewMap.impl.G2DMediator;
 	
-	import robotlegs.bender.extensions.genome2DViewMap.impl.G2DMediator;
-	
-	public class MainMediator extends robotlegs.bender.extensions.genome2DViewMap.impl.G2DMediator
+	public class MainMediator extends G2DMediator
 	{
 		[Inject]
 		public var view:MainView;

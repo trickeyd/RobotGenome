@@ -4,10 +4,10 @@ package
 	import com.netiquette.robotGenome.signals.Signal_ButtonClicked;
 	import com.netiquette.robotGenome.view.MainMediator;
 	import com.netiquette.robotGenome.view.MainView;
+	import com.robotlegs.bender.extensions.signalCommandMap.api.ISignalCommandMap;
 	
 	import robotlegs.bender.extensions.contextView.ContextView;
 	import robotlegs.bender.extensions.mediatorMap.api.IMediatorMap;
-	import robotlegs.bender.extensions.signalCommandMap.api.ISignalCommandMap;
 	import robotlegs.bender.framework.api.IConfig;
 	import robotlegs.bender.framework.api.IInjector;
 	

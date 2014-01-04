@@ -4,7 +4,7 @@
 //  NOTICE: You are permitted to use, modify, and distribute this file
 //  in accordance with the terms of the license agreement accompanying it.
 //------------------------------------------------------------------------------
-package robotlegs.bender.extensions.genome2DViewMap.impl
+package com.robotlegs.bender.extensions.genome2DViewMap.impl
 {
 	import com.genome2d.components.GComponent;
 	import com.genome2d.core.GNode;
@@ -13,7 +13,7 @@ package robotlegs.bender.extensions.genome2DViewMap.impl
 	import flash.utils.Dictionary;
 	
 	import robotlegs.bender.extensions.mediatorMap.api.IMediatorMap;
-	import robotlegs.bender.extensions.genome2DViewMap.api.IG2DViewMap;
+	import com.robotlegs.bender.extensions.genome2DViewMap.api.IG2DViewMap;
 
 	public class G2DViewMap implements IG2DViewMap
 	{
